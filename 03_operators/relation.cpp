@@ -5,7 +5,7 @@ using namespace std;
 int main(){
     
     int cups;
-
+    
     cout << "Enter the number of cups you have: ";
     cin >> cups;
 
