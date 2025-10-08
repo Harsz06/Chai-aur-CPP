@@ -6,7 +6,7 @@ int main(){
     
     unsigned snallTeaPack = 1200;
 
-    long long largeTeaStorage = 1000000000000;
+    long long largeTeaStorage = 10000000000;
 
     short teaSample = 25;
 
