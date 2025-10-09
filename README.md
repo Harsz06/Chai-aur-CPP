@@ -38,8 +38,8 @@ This repository documents everything I learn — from fundamentals to advanced c
    
 # Connect With Me
 
- - GitHub: @Harsz06
+ - GitHub: [@Harsz06](https://x.com/harsz_06)
 
  - Email:	guleriah59@gmail.com
 
- - YouTube Course:	C++ by Hitesh Choudhary (Chai aur Code)
+ - YouTube Course:	[C++ by Hitesh Choudhary (Chai aur Code)](https://www.youtube.com/watch?v=gCkPJTSZ9mU&list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi)
