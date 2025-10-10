@@ -1,7 +1,7 @@
 // returnType functionName(parameters){
 //     // function body
 // }
-// void -> empty in C++
+// void -> empty in C++.
 
 #include <iostream>
 using namespace std;
