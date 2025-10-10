@@ -1,8 +1,8 @@
 {
   "files.associations": {
-    "*.ejs": "html",      // Treat all .ejs files as HTML
-    "vector": "cpp",      // Treat files named 'vector' as C++ files
-    "iosfwd": "cpp",      // Treat files named 'iosfwd' as C++ files
-    "ostream": "cpp"      // Treat files named 'ostream' as C++ files
+    "*.ejs": "html",
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "ostream": "cpp"
   }
 }
