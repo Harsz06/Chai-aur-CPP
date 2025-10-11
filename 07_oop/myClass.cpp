@@ -11,7 +11,7 @@ class Chai{
         vector<string> ingredients; // list of ingredients for the tea
 
         //Member function
-        void displayChaiDetails(){
+    void displayChaiDetails(){
         cout << "Tea Name: " << teaName << endl;
         cout << "Servings: " << servings << endl;
         cout << "Ingredients: ";
@@ -19,7 +19,7 @@ class Chai{
             cout << ingredient << " ";
         } 
         cout << endl;
-     }
+    }
 };
 
 int main(){
