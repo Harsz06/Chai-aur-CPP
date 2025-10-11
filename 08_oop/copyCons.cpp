@@ -51,9 +51,9 @@ int main(){
 
     *lemonTea.teaName = "Modified Lemon tea";
 
-    cout << "Lemon Tea -------" << endl;
+    cout << "Lemon Tea --------" << endl;
     lemonTea.displayChaiDetails();
-    cout << "Copied Tea -------" << endl;
+    cout << "Copied Tea --------" << endl;
     copiedChai.displayChaiDetails();
 
     return 0;
