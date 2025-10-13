@@ -65,6 +65,13 @@ class MasalaTea : public Tea{
 //         }
 // }
 
+class SpicyMasalaTea: public Tea{
+    public:
+        void brew() const override {
+            cout << "Brewing" << teaName << " with spices and milk";
+        }
+};
+
 int main(){
     
     Tea* tea1 = new GreenTea(2);
