@@ -51,8 +51,33 @@ int main(){
         categories.insert(product.category);
     }
 
-    
+    map <int, int> productStock = {
+        {101,10},
+        {102,20},
+        {103,15},
+        {104,5},
+        {105,7},
+    };
 
+    multimap<string, Order> customerOrders;
+    for(const auto &order: orderHistroy){
+        customerOrders.insert({order.customerID, order});
+    }
+
+    unordered_map<string, string> customerData = {
+        {"C001", "Alice"},
+        {"C002", "hitesh"},
+        {"C003", "Vidya"},
+        {"C004", "max"},
+        {"C005", "harry"},
+    };
+
+    unordered_set<int> uniqueProductIDs;
+
+    for(const auto &product : products){
+        uniqueProductIDs.insert(product.productID);
+    }
+ 
 
     return 0;
 }
