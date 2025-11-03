@@ -35,11 +35,4 @@ This repository documents everything I learn — from fundamentals to advanced c
  - STL (Standard Template Library)	Containers, iterators, algorithms
  - DSA (Data Structures & Algorithms)	Problem solving and algorithm design
  - VS Code / Xcode / g++	IDE and compiler for writing, compiling, and testing code
-   
-# Connect With Me
 
- - GitHub: [@Harsz06](https://x.com/harsz_06)
-
- - Email:	guleriah59@gmail.com
-
- - YouTube Course:	[C++ by Hitesh Choudhary (Chai aur Code)](https://www.youtube.com/watch?v=gCkPJTSZ9mU&list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi)
